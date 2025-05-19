@@ -80,7 +80,7 @@ def home():
     <body>
 
         <header>
-            <h1>Welcome to  DevOps Project</h1>
+            <h1>Welcome DevOps Project</h1>
             <p>Running with Flask, Docker, and Kubernetes</p>
         </header>
 
